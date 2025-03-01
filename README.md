@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'm M Umarul Faruk Ali
 
-<!--
-**umarfaruk1316/umarfaruk1316** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Freelance Developer | Tech Trainer | AI/ML Enthusiast**  
 
-Here are some ideas to get you started:
+🔹 **Expertise:** Python, Django, Flutter, AI/ML, Data Science  
+🔹 **Passionate About:** Building AI-powered solutions & mentoring tech enthusiasts  
+🔹 **Tech Stack:** Full Stack Development (Web & Mobile)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I Do  
+✔ Develop scalable **AI & ML applications**  
+✔ Build **Django-based web apps & Flutter mobile apps**  
+✔ Train professionals in **Python, AI, and Data Science**  
+
+## 📬 Connect with Me  
+🔗 **LinkedIn:** [umarul-faruk-ali](https://www.linkedin.com/in/umarul-faruk-ali)  
+💻 **GitHub:** [yourusername](https://github.com/umarfaruk1316)  
+
+✨ **Let’s innovate together!** 🚀  
+
